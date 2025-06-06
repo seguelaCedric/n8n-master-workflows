@@ -1,4 +1,4 @@
-# n8n_automations
+## n8n Workflows for n8n Master Browser Extension
 This repository contains a collection of n8n automation templates for the browser extension "n8n Master", sourced from the web. These templates are designed to automate a wide range of tasks and workflows using n8n, making it easy for users to find and use ready-made automations for various platforms and services.
 
 👉 [Join n8n and start automating now! 💎](https://n8n.io)
@@ -220,19 +220,6 @@ All automation templates in this repository were found online and are uploaded h
 - Supabase Insertion & Upsertion & Retrieval
 - Upsert huge documents in a vector store with Supabase and Notion
 
-### **Other**
-
-- ALL_unique_nodes.txt (node reference)
-
-... and more !
-
----
-
-If you would like to contribute additional templates or suggest new categories, feel free to open an issue or pull request!
-
 ---
 
 👉 [Join n8n and start automating now! 💎](https://n8n.io/)
-<a href="https://n8n.io/">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
