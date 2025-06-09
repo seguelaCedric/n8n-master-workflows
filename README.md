@@ -113,6 +113,7 @@ All automation templates in this repository were found online and are uploaded h
 - AI Data Extraction with Dynamic Prompts and Airtable
 - AI Data Extraction with Dynamic Prompts and Baserow
 - AI-Driven Lead Management and Inquiry Automation with ERPNext & [n8n](https://n8n.io/)
+- AI Faceless Shorts Creator
 - AI Fitness Coach Strava Data Analysis and Personalized Training Insights
 - AI-Powered Candidate Shortlisting Automation for ERPNext
 - AI-Powered Email Automation for Business: Summarize & Respond with RAG
@@ -137,6 +138,7 @@ All automation templates in this repository were found online and are uploaded h
 - AI Social Media Caption Creator creates social media post captions in Airtable
 - AI-Generated Summary Block for WordPress Posts
 - AI Automated HR Workflow for CV Analysis and Candidate Evaluation
+- YouTube Music Video Generator with AI
 
 ### **WhatsApp**
 
@@ -201,6 +203,7 @@ All automation templates in this repository were found online and are uploaded h
 ### **Instagram, Twitter, Social Media**
 
 - AI agent for Instagram DM_inbox. Manychat + Open AI integration
+- AI Avatar Video Generator for Social Media
 - Generate Instagram Content from Top Trends with AI Image Generation
 - Update Twitter banner using HTTP request
 - Twitter Virtual AI Influencer
