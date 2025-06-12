@@ -202,6 +202,7 @@ All automation templates in this repository were found online and are uploaded h
 
 ### **Instagram, Twitter, Social Media**
 
+- Advanced AI Avatar Video Generator v2
 - AI agent for Instagram DM_inbox. Manychat + Open AI integration
 - AI Avatar Video Generator for Social Media
 - Generate Instagram Content from Top Trends with AI Image Generation
