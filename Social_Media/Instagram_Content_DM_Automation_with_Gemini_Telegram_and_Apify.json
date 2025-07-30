@@ -1267,7 +1267,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer r8_0Irzs0Itesx6uPaeUvMUtDOg2f6vqpa288s1R"
+              "value": "Bearer YOUR_REPLICATE_API_TOKEN"
             },
             {
               "name": "Prefer",
