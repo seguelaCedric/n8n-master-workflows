@@ -2,9 +2,12 @@
 This repository contains a collection of n8n automation templates for the browser extension "n8n Master", sourced from the web. These templates are designed to automate a wide range of tasks and workflows using n8n, making it easy for users to find and use ready-made automations for various platforms and services.
 
 
-👉 [Install n8n Master in Chrome](https://chromewebstore.google.com/detail/n8n-master-workflow-assis/jikahkldllpmocjlfcmjkpecjjipbfmj)
+# 👉 [Install n8n Master in Chrome](https://chromewebstore.google.com/detail/n8n-master-workflow-assis/jikahkldllpmocjlfcmjkpecjjipbfmj)
+
+# 👉 [Install n8n Master in Edge]( https://microsoftedge.microsoft.com/addons/detail/n8n-master-workflow-ass/edkfpkbmekfhdbeaicagkbioeicbpkeo)
+
 <a href="https://chromewebstore.google.com/detail/n8n-master-workflow-assis/jikahkldllpmocjlfcmjkpecjjipbfmj">
-  <img src="/img/banner.png" alt="n8n" style="max-height: 300px;">
+  <img src="img/banner.png" alt="n8n" style="max-height: 300px;">
 </a>
 
 
