@@ -1,0 +1,21 @@
+name: Trigger Workflow Library Sync
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.json'  # Only trigger when JSON files change
+
+jobs:
+  notify-library:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger sync in workflow library
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WORKFLOW_LIBRARY_TOKEN }}
+          repository: seguelaCedric/n8n_workflow_library
+          event-type: sync-workflows
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
